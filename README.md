@@ -2,8 +2,6 @@ Teapot
 ======
 Teapot is an Android C++ sample that draws a Teapot mesh using GLES 2.0 API and [NativeActivity](http://developer.android.com/reference/android/app/NativeActivity.html).
 
-teapotrender-melvincabatuan created by Classroom for GitHub
-
 Pre-requisites
 --------------
 - Android Studio 1.3+ with [NDK](https://developer.android.com/ndk/) bundle.
@@ -47,33 +45,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-
-
-# This Assignment 
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/ad65eff93217864a90cbc819dbf06ddd
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/teapotrender-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](teapot.png)](https://www.youtube.com/watch?v=kwxE9cnY1rE)
-"*At forty, I was too old to work as a programmer myself anymore; writing code is a young person's job.*" - Michael Crichton, Prey
